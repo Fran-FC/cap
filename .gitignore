@@ -1,4 +1,4 @@
 *.pem
-seminars/s_cuda/a.out
 .vscode/
 launch.json
+a.out
